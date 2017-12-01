@@ -1,0 +1,71 @@
+<!Doctype html>
+<html lang="en-US">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+.mySlides {display:none;}
+</style>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <link href="https://fonts.googleapis.com/css?family=Berkshire+Swash" rel="stylesheet" >   
+    <link href="https://fonts.googleapis.com/css?family=Slabo+27px" rel="stylesheet" >
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" >
+    <link href="https://fonts.googleapis.com/css?family=Dancing+Script" rel="stylesheet"> 
+    <div id="snow"></div>
+    
+    
+    </head>
+<body>
+    
+    <audio id="song" autoplay="christmas"><source src="Taylor%20Singing.m4a"></audio>
+    <div class="container">
+    <img src="cool.jpg">
+    </div>
+    <div class="text">MERRY CHRISTMAS<br />FELIZ NAVIDAD</div>
+    <div class="wish"> <p>Wishing you a blessed Christmas and a wonderful, peaceful New Year.<br />
+    Les deseamos una Navidad llena de bendiciones y nuestros mejores deseos para el 2018, que sea maravilloso y lleno de paz.</p>
+    </div>
+    <div class="sign"><p>The Garcia Family</p></div>
+    <div class="w3-container">
+</div>
+
+<div class="family" style="max-width:500px">
+  <img class="mySlides w3-animate-top" src="image1.JPG" style="width:70%">
+  <img class="mySlides w3-animate-bottom" src="tay%20.jpg" style="width:80%">
+  <img class="mySlides w3-animate-top" src="tres.jpg" style="width:80%">
+  <img class="mySlides w3-animate-bottom" src="nicky1.jpg" style="width:80%">
+    <img class="mySlides w3-animate-top" src="2.jpg" style="width:70%">
+  <img class="mySlides w3-animate-bottom" src="santa.jpg" style="width:70%">
+    <img class="mySlides w3-animate-bottom" src="couple.jpg" style="width:70%">
+    <img class="mySlides w3-animate-bottom" src="nicky.jpg" style="width:80%">
+    <img class="mySlides w3-animate-bottom" src="fireplace.jpg" style="width:60%">
+    <img class="mySlides w3-animate-bottom" src="tree.jpg" style="width:80%">
+    <img class="mySlides w3-animate-bottom" src="newy.jpg" style="width:60%">
+    <img class="mySlides w3-animate-bottom" src="tresdad.JPG" style="width:80%">
+    <img class="mySlides w3-animate-bottom" src="rockefeller.JPG" style="width:70%">
+    
+</div>
+
+<script>
+var myIndex = 0;
+carousel();
+
+function carousel() {
+    var i;
+    var x = document.getElementsByClassName("mySlides");
+    for (i = 0; i < x.length; i++) {
+      x[i].style.display = "none";  
+    }
+    myIndex++;
+    if (myIndex > x.length) {myIndex = 1}    
+    x[myIndex-1].style.display = "block";  
+    setTimeout(carousel, 4500);    
+}
+</script>
+
+    <div class="by">Created by<br /> JackelineT.</div>
+    <div class="facebook">  <a href="https://www.facebook.com/jackeline.garcia.50767" class="fa fa-fw fa-facebook-official"></a></div>
+    
+    </body>
+
+</html>
