@@ -1,4 +1,4 @@
-body{padding: 40px;margin: 20px;font-family:'slabo 27px', serif; background-image: url(image3.jpg) ; background-repeat: no-repeat; background-size:1900px 1900px;}
+body{padding: 40px;margin: 20px;font-family:'slabo 27px', serif; background-image: url(image3.jpg) ; background-repeat: no-repeat; background-size:1900px 2100px;}
 
 #snow{
 	background: none;
@@ -43,6 +43,6 @@ a{color:white;}
 .facebook{text-align: center;font-size: 3rem;}
 .container img{border: red solid 20px; width:50%;}
 .container{text-align: center;}
-.family{margin-left: 300px;}
+.family{margin-left: 100px;}
 .family img{width:200px; height:400px;}
 .sign{color: white; font-family: 'Berkshire Swash', cursive; font-size: 2.5rem; text-align: center;}
