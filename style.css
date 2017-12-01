@@ -35,14 +35,14 @@ body{padding: 40px;margin: 20px;font-family:'slabo 27px', serif; background-imag
   50% {background-position: 500px 500px, 100px 200px, -100px 150px;}
   100% {background-position: 500px 1000px, 200px 400px, -100px 300px;}
 }	
-.text{text-align: center;font-size: 3rem; font-family: 'dancing script', cursive; color:white; width:100%;}
-.wish{text-align: center;font-size: 2.5rem; font-family: 'dancing script', cursive; color:white; width:100%;}
-.by{text-align: center;font-family: 'Berkshire Swash', cursive; font-size: 2.2rem; color:white; width:100%}
+.text{text-align: center;font-size: 2.2rem; font-family: 'dancing script', cursive; color:white; width:100%;}
+.wish{text-align: center;font-size: 1.8rem; font-family: 'dancing script', cursive; color:red; width:100%;}
+.by{text-align: center;font-family: 'Berkshire Swash', cursive; font-size: 1.7rem; color:white; width:100%}
 a:hover{color: red;}
 a{color:white;}
 .facebook{text-align: center;font-size: 3rem;}
-.container img{border: red solid 20px; width:50%;}
+.container img{border: red solid 20px; width:70%;}
 .container{text-align: center;}
 .family{margin-left: 100px;}
-.family img{width:300px; height:400px;}
-.sign{color: white; font-family: 'Berkshire Swash', cursive; font-size: 2.5rem; text-align: center;}
+.family img{width:300px; height:300px;}
+.sign{color: white; font-family: 'Berkshire Swash', cursive; font-size: 2rem; text-align: center;}
