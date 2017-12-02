@@ -42,8 +42,8 @@ a:hover{color: red;}
 a{color:white;}
 .facebook{text-align:center; font-size: 3rem; margin: 20px; width:80%;}
 .container img{border: red solid 5px; width:80%;}
-.container{text-align: center; margin: 20px;}
-.family{margin-left: 85px;width: 80%;}
+.container{text-align: center;}
+.family{margin-left: 55px; width: 80%;}
 .family img{width:80%; height:220px;}
 .sign{color: white; font-family: 'Berkshire Swash', cursive; font-size: 2rem; text-align: center; width:80%;}
-iframe{margin: : 20px;margin-bottom: 40px; margin-left: 50px;width:85%; height:800px;}
+iframe{margin: : 20px;margin-bottom: 40px; margin-left: 50px;width:85%; height:500px;}
