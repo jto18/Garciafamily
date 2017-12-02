@@ -37,13 +37,13 @@ body{padding: 40px;margin: 20px;font-family:'slabo 27px', serif; background-imag
 }	
 .text{text-align: center;font-size: 2.2rem; font-family: 'dancing script', cursive; color:white; width:100%;}
 .wish{text-align: center;font-size: 1.8rem; font-family: 'dancing script', cursive; color:red; width:100%;}
-.by{text-align: center;font-family: 'Berkshire Swash', cursive; font-size: 1.7rem; color:red; width:100%}
+.by{text-align: center;font-family: 'Berkshire Swash', cursive; font-size: 1.7rem; color:white; width:100%;margin: 20px;}
 a:hover{color: red;}
 a{color:white;}
-.facebook{text-align: center;font-size: 3rem;}
+.facebook{text-align: center;font-size: 3rem;margin-bottom: 20px;}
 .container img{border: red solid 20px; width:70%;}
 .container{text-align: center;}
 .family{margin-left: 100px;}
 .family img{width:300px; height:240px;}
 .sign{color: white; font-family: 'Berkshire Swash', cursive; font-size: 2rem; text-align: center;}
-iframe{margin-top: 20px;}
+iframe{margin: : 20px;margin-bottom: 40px; margin-left: 100px;}
