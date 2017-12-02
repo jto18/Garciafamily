@@ -35,8 +35,8 @@ body{padding: 40px;margin: 20px;font-family:'slabo 27px', serif; background-imag
   50% {background-position: 500px 500px, 100px 200px, -100px 150px;}
   100% {background-position: 500px 1000px, 200px 400px, -100px 300px;}
 }	
-.text{text-align: center;font-size: 2.2rem; font-family: 'dancing script', cursive; color:white; width:80%; margin: 20px;}
-.wish{text-align: center;font-size: 1.8rem; font-family: 'dancing script', cursive; color:red; width:80%; margin: 20px;}
+.text{text-align: center;font-size: 2.2rem; font-family: 'dancing script', cursive; color:white; width:80%;}
+.wish{text-align: center;font-size: 1.8rem; font-family: 'dancing script', cursive; color:red; width:80%;}
 .by{text-align: center;font-family: 'Berkshire Swash', cursive; font-size: 1.7rem; color:white; width:80%;margin: 20px;}
 a:hover{color: red;}
 a{color:white;}
@@ -46,4 +46,4 @@ a{color:white;}
 .family{margin-left: 55px; width: 80%;}
 .family img{width:80%; height:220px;}
 .sign{color: white; font-family: 'Berkshire Swash', cursive; font-size: 2rem; text-align: center; width:80%;}
-iframe{margin: : 20px;margin-bottom: 40px; margin-left: 50px;width:85%; height:500px;}
+iframe{margin: : 20px;margin-bottom: 40px; margin-left: 50px;width:85%; height:350px;}
